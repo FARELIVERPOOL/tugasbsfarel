@@ -1,0 +1,21 @@
+body{
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 5rem;
+    background-color: #e2edff;
+}
+#project{
+    background-color: #e2edff;
+}
+section{
+    padding-top: 5rem;
+}
+.dk{
+    width: 40%;
+    margin: auto;
+}
+.fw-bold{
+    text-decoration: none;
+}
